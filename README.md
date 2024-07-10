@@ -1,22 +1,22 @@
-# FrameRP
+# 🌟 FrameRP 🌟
 
 **FrameRP** est un framework pour serveur RP Minecraft réalisé en Skript. Ce projet vise à fournir une base solide pour la création de serveurs roleplay en intégrant les systèmes principaux nécessaires au gameplay RP.
 
-## Fonctionnalités
+## 🌟 Fonctionnalités
 
-### Jobs
+### 👨‍💼 Jobs
 Le système de jobs permet de créer et de gérer divers métiers pour les joueurs. Chaque métier peut avoir des tâches spécifiques, des récompenses et des responsabilités uniques, ajoutant une dimension immersive au gameplay.
 
-### Économie
+### 💰 Économie
 L'économie est au cœur de tout serveur RP. FrameRP propose un système économique robuste, permettant des transactions entre joueurs, des systèmes bancaires, et la gestion de devises virtuelles.
 
-### Chat de Proximité Écrit
+### 💬 Chat de Proximité Écrit
 Pour renforcer l'immersion, le chat de proximité écrit permet aux joueurs de communiquer uniquement avec ceux qui se trouvent à proximité d'eux dans le jeu. Cela ajoute une couche de réalisme en imitant les limitations de la communication dans le monde réel.
 
-### Addons et Personnalisation
+### 🔧 Addons et Personnalisation
 FrameRP est conçu pour être 100% configurable. Les administrateurs peuvent ajuster chaque aspect du framework selon leurs besoins spécifiques. De plus, il est possible de créer des addons simplement, permettant d'étendre les fonctionnalités de base sans modifier le code source principal.
 
-## Installation
+## 🚀 Installation
 
 1. **Téléchargez le projet** : Clonez ce dépôt ou téléchargez le zip du projet.
    ```sh
@@ -29,11 +29,11 @@ FrameRP est conçu pour être 100% configurable. Les administrateurs peuvent aju
    /sk reload all
    ```
 
-## Configuration
+## ⚙️ Configuration
 
 Tous les fichiers de configuration se trouvent dans le dossier `config` de FrameRP. Vous pouvez modifier les paramètres pour ajuster les systèmes de jobs, d'économie, de chat, etc., selon vos besoins.
 
-## Création d'Addons
+## 🔌 Création d'Addons
 
 FrameRP permet la création d'addons personnalisés pour étendre les fonctionnalités existantes. Voici un exemple de la structure d'un addon simple :
 ```skript
@@ -48,7 +48,7 @@ command /exemple:
 
 Placez votre addon dans le répertoire `addons` de FrameRP et rechargez Skript pour l'activer.
 
-## Contribution
+## 🤝 Contribution
 
 Les contributions sont les bienvenues! Si vous souhaitez contribuer à FrameRP, veuillez suivre les étapes suivantes :
 1. **Fork le dépôt**
@@ -66,10 +66,10 @@ Les contributions sont les bienvenues! Si vous souhaitez contribuer à FrameRP, 
    ```
 5. **Ouvrez une Pull Request**
 
-## License
+## 📜 License
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
-Merci d'avoir choisi FrameRP! Pour toute question ou assistance, n'hésitez pas à ouvrir une issue ou à rejoindre notre communauté Discord. Bon jeu!
+Merci d'avoir choisi FrameRP! Pour toute question ou assistance, n'hésitez pas à ouvrir une issue ou à rejoindre notre communauté Discord. Bon jeu! 🎮
