@@ -1,0 +1,13 @@
+on load:
+    broadcast "&6&m----------------------------------------------"
+    broadcast "&a&lFrameRP Framework"
+    broadcast "&7Créé par &bKairrin"
+    broadcast "&7Version: &b0.0.1"
+    broadcast "&7Description: &fFramework pour serveur RP Minecraft réalisé en Skript."
+    broadcast "&7Fonctionnalités principales:"
+    broadcast "&7- &eJobs"
+    broadcast "&7- &eÉconomie"
+    broadcast "&7- &eChat de proximité écrit"
+    broadcast "&7- &eAddons et Personnalisation"
+    broadcast "&6&m----------------------------------------------"
+    broadcast "&aFrameRP a été chargé avec succès! Profitez du jeu! 🎮"
